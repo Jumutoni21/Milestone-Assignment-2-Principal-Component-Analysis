@@ -12,7 +12,7 @@ Install the scikit-learn library on your PC.
 
 Clone this repository to your PC.
 
-Unzip the folder named "Jennifer Principle Component Analysis Milestone 2 (2)"
+Unzip the folder named "Principle Component Analysis"
 
 Open the unzipped folder in your preferred code editor.
 
